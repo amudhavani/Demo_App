@@ -1,2 +1,2 @@
-question = input("Ask a question: ")
+question = input("Ask a question, user: ")
 print("Demo assistant received:", question)
